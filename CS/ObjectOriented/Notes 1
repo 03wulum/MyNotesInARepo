@@ -1,0 +1,93 @@
+Pilot 12/06/2023
+
+What is a good design? How do you make it better?
+How do you know if a software is well designed?
+How difficult is it to maintain after release?
+
+Well designed helps you write dev-friendly software?
+FLexible, reusable, maintainable.
+
+Need to know purpose, have good documentation, not be overwhelmed.
+You don't work on software for yourself now, but for you later and others.
+
+Software Desing != user experience design
+
+Softer design focuses on low level aspects of a system
+-turn wishes/requirements of cust to reusable and maintainable, stable code overtime.
+software artchitect focuses on high level aspects of a system
+what's the business problem customer needs solving. What does your solution look like?
+
+TO build something as a foundation for others. Becareful not to make suboptimal decisions that will cause the system to fail.
+ANyone can make a project for just a week. But you need to learn to think: be forward thinking
+
+Another thing is to think of trade offs between speed and quality.
+Customer and business vs engineers. What we want to build: time is important, that tradeoff is a process
+
+Make sure you understand the client problem. They may not fully understand it. But we try to help them learn.
+
+Explore flow variations. Communicate software arch through documentation and
+functional and nonfunctional requirements
+
+Don't complicate things just because its interesting. Stick to simplicity. Strip away complexity. Focus on the core solution.
+This will remove confusion. Simplicity is the best solution. KISS.
+why? If its simple, good chance of getting it right. If its simple: its easy to explain. Remember you need to communicate the architecture, and you need to be able to transfer knowledge. The cost of knowledge TRansfer is higher with decreased simplicity and increased chances of misunderstanding.
+
+You need to produce quality solution and clearly communicate that solution with PM and other members of the team.
+
+Why is this code nice to work with and this one horrible?
+
+Work on larger and larger on pieces of your code overtime. become comfortable with that and then Push out of the code base you're working on and then contribute to conversations outside and contribute to conversations about the impact. Contribute at a different level.
+
+Someone eventually trusts you with bigger and bigger systems, planning. etc. Build your reputation overtime.
+DOn't be afraid to fail.
+
+Have the ability to understand the person you're talking to wants to be communicated to:
+
+1. Don't talk to business people about the low level implementation, tell them what they want to hear: high level at the most.
+   Customer-facing issues/solution
+2. Project planning, organizations skills. Backlog of work to keep in notes for memory.
+3. Juggle competing concerns at the same time.
+
+Need to know a lot of what is out there but not in greate detail
+Need to quickly assess new techs, and decipher what might be important to you.
+
+Hw do you stay up to date?
+See what big companies are doing. Read their blogs, play with tools mainly for inspiration, you want to learn
+how others are solving architecture. Start sharing your own thoughts and meet others so you can understand technology.
+Play with people who are much better than you are to be a better architect.
+Read! REad!!
+
+Read a lot of code and write a lot.
+LEarn from your mistake.
+
+This week. You need to read 10x the amount you've been doing. JUst do it!
+Don't just read. Try to clean up and update code and understand what a component is doing.
+
+12/07/2023
+Object-oriented thinking at an abstract level, is just seeing solution to large problems via breaking down into component objects.
+
+Have your organized into object components that have behaviors. This will help your code
+become more organized, flexible, reusable.
+Decrease lines of code, by reusing objects.
+I think objects can have placeholders for other objects. The way you may have a spot in the living room for a couch or television.
+You can easily exchange types of objects in those placehoders, maybe as customer needs adapt.
+
+\*\*You produce failure in code when you don't adequately plan and understand requirements. Understand the design and requirements. Questions it and see what conversations its sparks. Hopefully this leads you to greater clarity and better sense of those edge cases.
+
+Allot time for this.
+Don't start coding until you have accomplished the previous section. You do not want to be changing assumptions as your coding.
+THat's really expensive.
+
+"Diving straight into
+implementation work is a leading cause of project failure."
+
+You must probe to know the clients secrets. Even the ones they are unaware of.
+You can they ask clarifying questions. THis will help you grasp the scope of what it is you are building.
+All this even before you start coding. You also need to communicate necessary tradeoffs if need be fo the sake of meeting what's
+pressing to the client in a timely manner. This helps you with the REQUIREMENTS.
+
+Next PRODUCE CONCEPTUAL DESIGN & Technical design
+results in two artifacts produced: a conceptual mock-up and a technical diagram
+
+Conceptual Design:
+delineate appropriate connections, componenents, responsibilities(behaviors) of the product
