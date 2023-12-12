@@ -91,3 +91,17 @@ results in two artifacts produced: a conceptual mock-up and a technical diagram
 
 Conceptual Design:
 delineate appropriate connections, componenents, responsibilities(behaviors) of the product
+THink about structure and behavior of your software. You must elicit requirements from your client or the PM whoever
+the immediate stakeholder is. Take requirements to design this artifact.
+
+1. defer technical details until conceptual mockups are completely understood.
+2. Create connections between indentified components.
+3. Figure out all behaviors.
+4. The clearer your conceptual design, the better your technical design.
+5. constant communication/feedback are needed to keep conceptual designs true to the clients vision.
+6.
+
+Remember:
+
+1. Don't dive into coding immediately. Ensure your ticket has completed/clear requirements. You have a part to play in the communication. Ask questions. Fill in the gaps if needed.
+2.
