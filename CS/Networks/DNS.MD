@@ -27,5 +27,15 @@ I'll break it into 5 steps:
 
 
 12/12/2023
+
+
+TLS
+Transport Layer Security;
+more secure and efficient that SSL, basically its successor
+SSL certs allow us to be sure of the identity of the server.
+In combination with DNS which resolves the domain name of the server to the server IP.
+
+
+
 Objective:
 1. Understand how to make an api public accessible and how it hosted. It's relationship to the above list. 
